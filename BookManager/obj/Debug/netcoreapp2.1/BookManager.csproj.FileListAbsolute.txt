@@ -1,0 +1,11 @@
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.deps.json
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.runtimeconfig.json
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.runtimeconfig.dev.json
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.dll
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.pdb
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.csprojAssemblyReference.cache
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.AssemblyInfoInputs.cache
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.AssemblyInfo.cs
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.dll
+C:\Users\vinicius.carvalho\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.pdb
